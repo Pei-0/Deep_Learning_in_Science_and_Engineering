@@ -1,0 +1,17 @@
+# 忽略資料集資料夾
+cifar10_datasets/
+data/
+datasets/
+
+# 忽略壓縮檔
+*.tar
+*.tar.gz
+*.zip
+
+# 忽略模型檔案
+*.pt
+*.pth
+
+# 忽略系統檔案
+.DS_Store
+Thumbs.db
