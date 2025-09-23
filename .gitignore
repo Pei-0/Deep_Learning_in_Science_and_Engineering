@@ -11,7 +11,10 @@ datasets/
 # 忽略模型檔案
 *.pt
 *.pth
+checkpoints/
+.ipynb_checkpoints/
 
 # 忽略系統檔案
 .DS_Store
 Thumbs.db
+
