@@ -36,4 +36,4 @@ $$
 
 | PINN Solution | Analytical Solution |
 |---|---|
-| ![](best_state_2_100.png) | ![](Advanced_Level.png) |
+| ![](PINN Solution/best_state_2_100.png) | ![](Advanced_Level.png) |
