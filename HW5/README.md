@@ -4,6 +4,7 @@
 本作業透過物理資訊神經網路(PINN)，求取一維波動方程式之解。
 
 ### 波動方程式
+
 $$
 \frac{\partial^2 E(x,t)}{\partial x^2}
 -
@@ -30,4 +31,4 @@ E(x,t)=\sin(\pi x)\cos(c\pi t)+\sin(A\pi x)\cos(Ac\pi t)
 $$
 
 ## 🖼️ 求解結果
-![PINN solution](ex1.png)
+![PINN solution](.png)
