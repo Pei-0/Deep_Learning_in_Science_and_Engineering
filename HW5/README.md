@@ -10,13 +10,13 @@ $$
 \frac{\partial^2 E(x,t)}{\partial t^2}=0
 $$
 
-### 邊界條件
+### 邊界條件:
 
 $$
 E(0,t)=E(1,t)=0, \quad t\in[0,1]
 $$
 
-### 初始條件
+### 初始條件:
 
 $$
 E(x,0)=\sin(\pi x)+\sin(A\pi x), \quad x\in[0,1]
@@ -26,7 +26,7 @@ $$
 \left.\frac{\partial E(x,t)}{\partial t}\right|_{t=0}=0, \quad x\in[0,1]
 $$
 
-### 💡 分析解
+### 分析解:
 
 $$
 E(x,t)=\sin(\pi x)\cos(c\pi t)+\sin(A\pi x)\cos(Ac\pi t)
