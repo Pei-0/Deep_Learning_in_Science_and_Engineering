@@ -6,12 +6,10 @@
 ## 🖼️ 風格遷移範例
 
 ### 原圖
-Style image and content image used for neural style transfer.
 
 ![Style Image and Content Image](ex1.png)
 
 
 ### 轉移結果
-Result after running neural style transfer for 1600 iterations.
 
 ![Style Transfer Result](ex1_transfer.png)
