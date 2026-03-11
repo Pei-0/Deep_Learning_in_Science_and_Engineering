@@ -11,8 +11,6 @@ $$
 =0
 $$
 
-### 邊界條件
-
 $$
 E(0,t)=E(1,t)=0, \quad t\in[0,1]
 $$
@@ -30,8 +28,6 @@ $$
 $$
 E(x,t)=\sin(\pi x)\cos(c\pi t)+\sin(A\pi x)\cos(Ac\pi t)
 $$
-
-![Analytical solution](Advanced_Level.png)
 
 ## 🖼️ 求解結果
 ![PINN solution](best_state_2_100.png)
