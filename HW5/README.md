@@ -6,9 +6,7 @@
 ### 波動方程式
 
 $$
-\frac{\partial^2 E(x,t)}{\partial x^2}
--
-c^2
+\frac{\partial^2 E(x,t)}{\partial x^2} - c^2
 \frac{\partial^2 E(x,t)}{\partial t^2}
 =0
 $$
