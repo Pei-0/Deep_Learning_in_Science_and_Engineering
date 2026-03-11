@@ -3,15 +3,11 @@
 ## 📌 作業說明
 本作業透過物理資訊神經網路(PINN)，求取一維波動方程式之解。
 
-### 波動方程式
+## 波動方程式
 
-$$
-\frac{\partial^2 E(x,t)}{\partial x^2}
--
-c^2
-\frac{\partial^2 E(x,t)}{\partial t^2}
-=0
-$$
+$ \frac{\partial^2 E}{\partial x^2} - c^2 \frac{\partial^2 E}{\partial t^2} = 0 $
+
+### 邊界條件
 
 $$
 E(0,t)=E(1,t)=0, \quad t\in[0,1]
