@@ -30,5 +30,10 @@ E(x,t)=\sin(\pi x)\cos(c\pi t)+\sin(A\pi x)\cos(Ac\pi t)
 $$
 
 ## 🖼️ 求解結果
+
+### PINN
+
 ![PINN solution](best_state_2_100.png)
 
+### 分析解
+![Analytical solution](Advanced_Level.png)
