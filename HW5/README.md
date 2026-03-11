@@ -7,13 +7,16 @@
 
 $$
 \frac{\partial^2 E(x,t)}{\partial x^2} - c^2
-\frac{\partial^2 E(x,t)}{\partial t^2}
-=0
+\frac{\partial^2 E(x,t)}{\partial t^2}=0
 $$
+
+### 邊界條件
 
 $$
 E(0,t)=E(1,t)=0, \quad t\in[0,1]
 $$
+
+### 初始條件
 
 $$
 E(x,0)=\sin(\pi x)+\sin(A\pi x), \quad x\in[0,1]
@@ -31,9 +34,6 @@ $$
 
 ## 🖼️ 求解結果
 
-### PINN
-
-![PINN solution](best_state_2_100.png)
-
-### 分析解
-![Analytical solution](Advanced_Level.png)
+| PINN Solution | Analytical Solution |
+|---|---|
+| ![](best_state_2_100.png) | ![](Advanced_Level.png) |
