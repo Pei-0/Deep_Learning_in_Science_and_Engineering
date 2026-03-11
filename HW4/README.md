@@ -5,3 +5,4 @@
 
 ## 🖼️ 風格遷移範例
 ![Style Trandfer Samples](ex1.png)
+![Style Trandfer Samples](ex1_transfer.png)
