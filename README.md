@@ -18,7 +18,6 @@
 - 深度學習的最新研究進展
 
 
----
 
 ## 實作程式
 
@@ -30,4 +29,3 @@
 | HW4 | Neural Style Transfer | [HW4](HW4) |
 | HW5 | Physics-informed Neural Network | [HW5](HW5) |
 
----
